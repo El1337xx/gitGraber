@@ -8,6 +8,6 @@ GITHUB_MAX_RETRY = 10
 DISCORD_WEBHOOKURL = 'https://discordapp.com/api/webhooks/7XXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXX'
 SLACK_WEBHOOKURL = 'https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXX'
 TELEGRAM_CONFIG = {
-    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "chat_id": -999999999999999
+    "token": "5681864364:AAENFmLXve78swuotysAcMofw5xbxlA3Q2U",
+    "chat_id": -5486373279
 }
